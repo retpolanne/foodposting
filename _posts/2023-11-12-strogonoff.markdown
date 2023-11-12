@@ -117,4 +117,4 @@ quebrando-o. Depois, coloque num recipiente fechado e balance até a casca do al
 
 \[1] [O melhor estrogonofe de carne: receita da Rita Lobo](https://receitas.globo.com/receitas-da-tv/cozinha-pratica/o-melhor-estrogonofe-de-carne-receita-da-rita-lobo-gnt.ghtml)
 
-\[2] [50 Cooking Tips With Gordon Ramsay | Part One](https://youtu.be/BHcyuzXRqLs?si=yvqTX-GlcsbOKY1z&t=125)
+\[2] [50 Cooking Tips With Gordon Ramsay Part One](https://youtu.be/BHcyuzXRqLs?si=yvqTX-GlcsbOKY1z&t=125)

@@ -14,21 +14,16 @@ Os ingredientes que usei foram:
 
 - Carne - a Swift tem uma carne picada para estrogonofe, mas não consegui encontrar no site, só na loja. 
 
-```
-A carne da Swift vem congelada, mas pode ir no fogo após tirar do freezer. Porém, eu preferi deixar na geladeira por ~2h pra não colocar na panela tão gelada. 
-```
+> A carne da Swift vem congelada, mas pode ir no fogo após tirar do freezer. 
+> Porém, eu preferi deixar na geladeira por ~2h pra não colocar na panela tão gelada. 
 
 - Cogumelos (cogumelo de Paris ou champignon - eu usei champignon porque era mais fácil de achar) 
 
-```
-Eu usei champignon e não cortei eles, porque eu prefiro eles inteiros. Joguei eles num escorredor e deixei lá por um tempo.
-```
+> Eu usei champignon e não cortei eles, porque eu prefiro eles inteiros. Joguei eles num escorredor e deixei lá por um tempo.
 
 - 1/4 de cebola e 2 dentes de alho
 
-```
-Na receita da Rita Lobo, ela usa duas cebolas. Eu piquei uma inteira e achei que tinha muita cebola e eu acabava comendo os pedacinhos de cebola, não gostei. A cebola é só pra refogar. 
-```
+> Na receita da Rita Lobo, ela usa duas cebolas. Eu piquei uma inteira e achei que tinha muita cebola e eu acabava comendo os pedacinhos de cebola, não gostei. A cebola é só pra refogar. 
 
 - Creme de leite fresco ou pasteurizado
 
@@ -40,9 +35,7 @@ Na receita da Rita Lobo, ela usa duas cebolas. Eu piquei uma inteira e achei que
 
 - Conhaque 
 
-```
-Minha namorada falou que meu Dreher era de pinguço :p. Era o único que tinha no mercado, mas na próxima devo comprar um Osborne.
-```
+> Minha namorada falou que meu Dreher era de pinguço :p. Era o único que tinha no mercado, mas na próxima devo comprar um Osborne.
 
 - Azeite
 

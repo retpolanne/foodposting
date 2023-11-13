@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Observações de cozinha: controle de fogo e food safety"
+date: 2023-11-13 07:40:01 -0300
+categories: carne fogo
+---
+
+Controle de fogo é uma das skills mais importantes na cozinha. Saber controlar o fogo para todas as situações é indispensável
+para fazer uma comida deliciosa. Durante muito tempo, eu errava no fogo e isso fazia com que minha comida queimasse e ficasse 
+crua por dentro. Já aconteceu de eu queimar a parte de fora do salmão e por dentro ele ficar cru (é okay comer salmão cru [1], 
+só extremamente chato quando ele está parcialmente cozido). Quando aprendi o controle do fogo, as coisas ficaram muito mais 
+interessantes. 
+
+O racional é o seguinte: quanto mais queremos selar a carne, mais alto o fogo. Quanto mais queremos cozinhá-la, mais baixo.
+
+Outra dica [2] é sobre quando colocar o azeite na panela. O ideal é deixar a panela no fogo médio, deixar ela esquentar, adicionar
+gordura (azeite, óleo, manteiga), esperar que ela aqueça também e por fim colocamos o que a gente quer refogar ou grelhar. Eu 
+evitaria deixar a panela quente demais, porque vira aquela bagunça de um monte de gordura. 
+
+Descobri hoje a diferença entre refogar e grelhar [4]. A gente grelha com menos gordura do que o refogado, e a grelha acontece
+num fogo mais quente. 
+
+Pra evitar que isso aconteça, eu costumo deixar a panela esquentar bem num fogo mais baixo para refogados - assim a cebola dá uma 
+murchada antes de dourar, e médio para grelhar e selar carnes. Vai espirrar um pouco, mas nem tanto. Além disso, controlar o 
+tanto de gordura ajuda muito. 
+
+Vamos falar sobre cozinhar carnes. A gente pode comer peixe cru, carne vermelha mal passada, mas não frango ou porco cru. [1] \[3]
+
+Para selar as carnes, aí vai a dica do fogo médio: a panela bem quente vai ajudar a selar nossa carne, mantendo os sucos da carne
+dentro dela. Porém, precisamos cozinhar nossa carne por dentro também e não queremos queimá-la totalmente por fora. Por isso o fogo médio ou até mesmo baixo. Quanto mais baixo o fogo, melhor o cozimento por dentro, porém queremos ter a panela inicialmente quente para conseguir selar o alimento. 
+
+Sobre o ponto da carne, é importante lembrar que é okay comer carne vermelha mal passada e peixe cru, mas não frango e porco. 
+BTW não se lava frango, viu? No caso da carne vermelha, é importante que a gente aqueça bem na superficie, onde as bactérias 
+se encontram. No caso do frango e do porco, a gente tem que deixar cozinhando bem, então não queremos selar tanto como selamos a 
+carne vermelha. Por isso, tudo bem na carne vermelha o fogo ser mais alto e na carne branca o fogo ser um pouco mais baixo. 
+
+## Links
+
+\[1] [Why Do We Eat Raw Fish But Not Raw Chicken?](https://www.youtube.com/watch?v=9aoTr9CbHew)
+
+\[2] [Você esquenta o azeite antes ou junto com a cebola na hora de refogar? ](https://www.tudogostoso.com.br/noticias/voce-esquenta-o-azeite-antes-ou-junto-com-a-cebola-na-hora-de-refogar-descubra-como-fazer-no-tudogostoso-a7483.htm)
+
+\[3] [Why Rare Steak is Safe — but NOT Rare Chicken](https://www.youtube.com/watch?v=cL9RyGqwcbA&list=PLAMhbClCqEsnK0bOUoPOAPenaDCxAY9n3&index=3)
+
+\[4] [A DIFERENÇA ENTRE REFOGAR E GRELHAR](https://panelinha.com.br/blog/ritalobo/post/diferenca-refogar-grelhar)
+
+\[5] [Os perigos de lavar o frango antes de cozinhá-lo](https://www.bbc.com/portuguese/geral-61635682)

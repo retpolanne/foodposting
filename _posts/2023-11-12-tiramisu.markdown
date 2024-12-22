@@ -1,5 +1,61 @@
 ---
 layout: post
-title: "Lorem Ipsum"
+title: "Tiramisu - for fun and profit"
 date: 2023-11-12 14:09:25 -0300
-categories: lorem ipsum
+categories: desserts
+tags: italian tiramisu
+---
+
+Tiramisu é uma das minhas sobremesas favoritas, e eu queria fazer algo
+beeeeem i-ta-li-anooo (leia com a ênfase de um italo-americano da Mooca).
+
+A receita que eu uso aqui é do Michael Chu, no blog Cooking For Engineers.
+Being an engineer myself, me parecia muito fácil seguir ele.
+
+Já havia tentado essa receita antes e deu muito certo, e agora vou tentar
+a versão clássica dela [1] numa versão mini beta test. A versão Pro Max é basicamente o dobro dessa. 
+
+
+## Zabaglione
+
+### Mise en place
+
+- 2 gemas grandes (você vai usar só a gema, a clara pode reservar pra algo, tipo clara em neve)
+
+- 1/4 xícara de açúcar granulado 
+
+- 25ml de amaretto, caso queira algo meio alcoolico no meio
+
+### Preparo
+
+Num bowl (de preferência de Inox), adicione as gemas e _whisk_ com um fouet até ficar fluffy, tipo um omelete. Depois, adicione o açúcar e o amaretto e misture (whisk). Daí faça um banho-maria em fogo médio (i.e. deixe em fogo alto até ferver e depois reduza o fogo) e misture (whisk) até ganhar consistência. Pare quando começar a formar bolhas lentamente. Tá aí nosso zabaglione (ou custard).
+
+## Chantilly 
+
+### Mise en place
+
+- Creme de leite fresco (meia xícara) bem gelado (deixa uns minutos no congelador até ficar bem gelado)
+
+### Preparo
+
+Apenas bata com o mixer até ter _soft peaks_ – experimente virar o bowl na sua cabeça, se cair algo, é porque não chegou no ponto certo :) 
+
+
+## Mascarpone
+
+### Mise en place
+
+- 200g de Queijo Mascarpone (não sei fazer o meu e é super difícil de achar)
+
+### Preparo
+
+Bater levemente o mascarpone para deixar ele bem creamy, jogue o zabaglione e bata até ficar consistente. 
+
+Por fim, faça um _fold_ da mistura do zabaglione + mascarpone e chantilly. 
+
+## Last but not least – termine
+
+Não tem muito segredo, é quase um pavê. Antes de servir, jogue uma camadinha de cacau em pó ou chocolate :) 
+
+
+[1] [Cooking for Engineers - The classic tiramisu recipe](https://www.cookingforengineers.com/recipe/60/The-Classic-Tiramisu-original-recipe)

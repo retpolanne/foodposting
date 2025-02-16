@@ -5,7 +5,7 @@ date: 2025-02-16 10:45:26 -0300
 categories: italian
 ---
 
-![Lasang](assets/img/lasang.jpg)
+![Lasang](/assets/img/lasang.jpg)
 
 Eu amo lasanha. 
 
@@ -177,4 +177,3 @@ Use massa fresca de lasanha, tem boas massas no La Pergoletta.
 
 Pré-aqueça o forno em 200C. Faça camadas de massa, bechamel e ragu em uma travessa.
 
-Deixe por volta de 15 minutos no forno até gratinar :)

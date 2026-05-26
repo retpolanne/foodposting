@@ -29,7 +29,7 @@ Os ingredientes que usei foram:
 
 - Extrato de tomate
 
-- Ketchup (eu uso o Heinz)
+- Ketchup (eu uso o Heinz ou Strumpf)
 
 - Molho inglês 
 
@@ -40,6 +40,8 @@ Os ingredientes que usei foram:
 - Azeite
 
 - Sal e pimenta (eu uso a do reino e o sal do Himalaia)
+
+- Batata Palha
 
 # Parte um - carne
 
